@@ -1,0 +1,599 @@
+{
+  "main": {
+    "id": "9d92a7d722c37e01",
+    "type": "split",
+    "children": [
+      {
+        "id": "92c351cb244c4bcd",
+        "type": "split",
+        "children": [
+          {
+            "id": "dfa5da9f0b6ab6c7",
+            "type": "tabs",
+            "dimension": 51.28440366972477,
+            "children": [
+              {
+                "id": "38b1ddedeed0c7b0",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3b42b4d5861a48c9",
+            "type": "tabs",
+            "dimension": 48.71559633027523,
+            "children": [
+              {
+                "id": "547e15cb5640cf5e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/seungjohan/Obsidian/researcher",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: ◇  Ready (researcher)"
+                }
+              },
+              {
+                "id": "454a9d6d184b9cb8",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/seungjohan/Obsidian/researcher",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: zsh"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb980a1a9321cc19",
+    "type": "split",
+    "children": [
+      {
+        "id": "65af47329872ab7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f4a0689f689eba3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3f5967d926a70ca1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d50b18212c7fb354",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "994ffd55bcf38d62",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "475778de0c3aca38",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350.5
+  },
+  "right": {
+    "id": "9b835ed5d24d006b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d810e136825d261",
+        "type": "tabs",
+        "dimension": 67.06422018348624,
+        "children": [
+          {
+            "id": "53ec5c2df938b440",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/Twelve-Labs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Twelve-Labs"
+            }
+          },
+          {
+            "id": "de58c948727f316b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "career/basic paper/resume/2025 Q4 ; With ChatGPT and applications for Palantir, Sendbird.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025 Q4 ; With ChatGPT and applications for Palantir, Sendbird"
+            }
+          },
+          {
+            "id": "d1f1866a965a1e30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "career/basic paper/resume/2025 Q4 ; With ChatGPT and applications for Palantir, Sendbird.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025 Q4 ; With ChatGPT and applications for Palantir, Sendbird"
+            }
+          },
+          {
+            "id": "704d75f6f75a7fe7",
+            "type": "leaf",
+            "state": {
+              "type": "url-display",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "url-display"
+            }
+          },
+          {
+            "id": "b5c9dbb6cd1e12aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "startup/Ideation.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Ideation"
+            }
+          },
+          {
+            "id": "5d46eb8c0740aca9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f256d1b09ebbc1fb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "187fb953951cac41",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "career/basic paper/resume/2025 Q4 ; With ChatGPT and applications for Palantir, Sendbird.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "1719b637f372dfd8",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
+          }
+        ],
+        "currentTab": 8
+      },
+      {
+        "id": "89949c91e0ce0271",
+        "type": "tabs",
+        "dimension": 32.935779816513765,
+        "children": [
+          {
+            "id": "fb5a906a2510a921",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9603973596415316,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "cdc390a4f0bd8b90",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "24131c376435a105",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "career/apply/company/entry/2025/Liner - Product Manager.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Liner - Product Manager"
+            }
+          },
+          {
+            "id": "f7103e83145aef21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "career/apply/company/entry/2025/Partner Engineer, YouTube Shopping (Korean, English).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Partner Engineer, YouTube Shopping (Korean, English)"
+            }
+          },
+          {
+            "id": "2f8eff3f094e03a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "language/español/La Gramática/Adj + Noun.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Adj + Noun"
+            }
+          },
+          {
+            "id": "2e235ae6539fb2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "language/español/media/Laura/A Little Bit of Spanish While I Talk About My Favorite Things 🇪🇸.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "A Little Bit of Spanish While I Talk About My Favorite Things 🇪🇸"
+            }
+          },
+          {
+            "id": "95f84d7f21918c8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "career/apply/company/entry/2025/Google Korea - Customer Engineer, Google Cloud.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Google Korea - Customer Engineer, Google Cloud"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-rich-links:Rich Links": false,
+      "dbfolder:Create a new database table": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "url-display:Open URL pane": false,
+      "smart-composer:Open smart composer": false,
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "sheet-plus:Create excel file": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "454a9d6d184b9cb8",
+  "lastOpenFiles": [
+    "wiki/log.md",
+    "wiki/VoyagerX.md",
+    "wiki/VUNO.md",
+    "wiki/Superb-AI.md",
+    "wiki/Standigm.md",
+    "wiki/SqueezeBits.md",
+    "wiki/Speak.md",
+    "wiki/Sendbird.md",
+    "wiki/Scatter-Lab.md",
+    "wiki/Riiid.md",
+    "wiki/Rebellions.md",
+    "wiki/Persona-AI.md",
+    "wiki/Nota-AI.md",
+    "wiki/Moloco.md",
+    "wiki/Mobilint.md",
+    "wiki/MediWhale.md",
+    "wiki/MarqVision.md",
+    "wiki/MakinaRocks.md",
+    "wiki/Lunit.md",
+    "wiki/LINER.md",
+    "wiki/Healthcare-AI-Trends-2026.md",
+    "wiki/FuriosaAI.md",
+    "wiki/FriendliAI.md",
+    "wiki/Edge-AI-Infrastructure-2026.md",
+    "wiki/DeepX.md",
+    "wiki/DeepBrain-AI.md",
+    "raw/AI-Startups-Korea-Top30.csv",
+    "raw",
+    "wiki",
+    "Users/seungjohan/Obsidian/researcher",
+    "Users/seungjohan/Obsidian",
+    "Users/seungjohan",
+    "Users",
+    "resources/attachments/Pasted image 20260331182241.png",
+    "resources/attachments/seungjohan_coverletter.pdf",
+    "resources/attachments/seungjohan_resume 1.pdf",
+    "resources/attachments/seungjohan_resume.docx",
+    "startup/useful product.canvas",
+    "resources/attachments/R1280x0 30.png",
+    "resources/attachments/Pasted image 20240814152800.png",
+    "resources/attachments/Pasted image 20240410165415.png",
+    "resources/attachments/Pasted image 20230926123029.png",
+    "resources/attachments/KakaoTalk_Photo_2020-12-08-03-43-23.jpeg",
+    "resources/attachments/IMG_8617.png",
+    "resources/attachments/condom-2.jpg",
+    "resources/attachments/1696404312459-ea51a7c1-b93a-4c9f-927b-c38dcc912e54_2.jpg",
+    "resources/attachments/1696404312459-ea51a7c1-b93a-4c9f-927b-c38dcc912e54_6.jpg",
+    "career/Career Design.canvas",
+    "seungjohan/meMyself/Canvas seungjohan.canvas",
+    "language/español/La Gramática/La Gramática del Canvas.canvas",
+    "seungjohan/Untitled.canvas",
+    "music/producing/Untitled.canvas",
+    "startup/brilliant sideproject.canvas",
+    "career/webeing/Career; Webeing.canvas",
+    "career/freelancing/Career; Freelance, Assistance, Contract and Others.canvas",
+    "language/Untitled.canvas"
+  ]
+}
