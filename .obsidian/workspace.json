@@ -30,48 +30,6 @@
             "dimension": 48.71559633027523,
             "children": [
               {
-                "id": "547e15cb5640cf5e",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/seungjohan/Obsidian/researcher",
-                      "focus": false,
-                      "profile": {
-                        "args": [
-                          "--login"
-                        ],
-                        "executable": "/bin/zsh",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: ◇  Ready (researcher)"
-                }
-              },
-              {
                 "id": "454a9d6d184b9cb8",
                 "type": "leaf",
                 "pinned": true,
@@ -113,8 +71,7 @@
                   "title": "Terminal: zsh"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -539,9 +496,10 @@
   },
   "active": "454a9d6d184b9cb8",
   "lastOpenFiles": [
-    "wiki/log.md",
+    "README.md",
     "wiki/VoyagerX.md",
     "wiki/VUNO.md",
+    "wiki/Upstage.md",
     "wiki/Superb-AI.md",
     "wiki/Standigm.md",
     "wiki/SqueezeBits.md",
@@ -550,6 +508,7 @@
     "wiki/Scatter-Lab.md",
     "wiki/Riiid.md",
     "wiki/Rebellions.md",
+    "wiki/Product-Management-0-to-1.md",
     "wiki/Persona-AI.md",
     "wiki/Nota-AI.md",
     "wiki/Moloco.md",
@@ -559,15 +518,14 @@
     "wiki/MakinaRocks.md",
     "wiki/Lunit.md",
     "wiki/LINER.md",
+    "wiki/Job-Search-Status-2026.md",
     "wiki/Healthcare-AI-Trends-2026.md",
     "wiki/FuriosaAI.md",
     "wiki/FriendliAI.md",
-    "wiki/Edge-AI-Infrastructure-2026.md",
-    "wiki/DeepX.md",
-    "wiki/DeepBrain-AI.md",
     "raw/AI-Startups-Korea-Top30.csv",
     "raw",
     "wiki",
+    "obsidian-research",
     "Users/seungjohan/Obsidian/researcher",
     "Users/seungjohan/Obsidian",
     "Users/seungjohan",
@@ -575,7 +533,6 @@
     "resources/attachments/Pasted image 20260331182241.png",
     "resources/attachments/seungjohan_coverletter.pdf",
     "resources/attachments/seungjohan_resume 1.pdf",
-    "resources/attachments/seungjohan_resume.docx",
     "startup/useful product.canvas",
     "resources/attachments/R1280x0 30.png",
     "resources/attachments/Pasted image 20240814152800.png",
