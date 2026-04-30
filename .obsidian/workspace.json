@@ -4,44 +4,99 @@
     "type": "split",
     "children": [
       {
-        "id": "dfa5da9f0b6ab6c7",
-        "type": "tabs",
+        "id": "5c1f8ce404648f40",
+        "type": "split",
         "children": [
           {
-            "id": "9ef73ce3f2256140",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "a13dac01cb2a1a22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/Bear-Robotics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "dfa5da9f0b6ab6c7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9ef73ce3f2256140",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               },
-              "icon": "lucide-file",
-              "title": "Bear-Robotics"
-            }
+              {
+                "id": "a13dac01cb2a1a22",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "wiki/Bear-Robotics.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Bear-Robotics"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9ce8abc6f98cc24b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3861657fc8a2feed",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/seungjohan/Obsidian/researcher",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: zsh"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -461,7 +516,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9ef73ce3f2256140",
+  "active": "3861657fc8a2feed",
   "lastOpenFiles": [
     "wiki/Bear-Robotics.md",
     "wiki/Mobilint.md",
