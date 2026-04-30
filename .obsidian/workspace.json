@@ -4,77 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "92c351cb244c4bcd",
-        "type": "split",
+        "id": "dfa5da9f0b6ab6c7",
+        "type": "tabs",
         "children": [
           {
-            "id": "dfa5da9f0b6ab6c7",
-            "type": "tabs",
-            "dimension": 51.28440366972477,
-            "children": [
-              {
-                "id": "38b1ddedeed0c7b0",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
+            "id": "38b1ddedeed0c7b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
-            ]
-          },
-          {
-            "id": "3b42b4d5861a48c9",
-            "type": "tabs",
-            "dimension": 48.71559633027523,
-            "children": [
-              {
-                "id": "454a9d6d184b9cb8",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/seungjohan/Obsidian/researcher",
-                      "focus": false,
-                      "profile": {
-                        "args": [
-                          "--login"
-                        ],
-                        "executable": "/bin/zsh",
-                        "followTheme": true,
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: zsh"
-                }
-              }
-            ]
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,6 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "wiki/index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -324,7 +282,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of index"
             }
           },
           {
@@ -494,45 +452,45 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "454a9d6d184b9cb8",
+  "active": "38b1ddedeed0c7b0",
   "lastOpenFiles": [
-    "README.md",
-    "wiki/VoyagerX.md",
-    "wiki/VUNO.md",
-    "wiki/Upstage.md",
-    "wiki/Superb-AI.md",
-    "wiki/Standigm.md",
-    "wiki/SqueezeBits.md",
-    "wiki/Speak.md",
-    "wiki/Sendbird.md",
-    "wiki/Scatter-Lab.md",
-    "wiki/Riiid.md",
-    "wiki/Rebellions.md",
+    "wiki/Allganize.md",
+    "wiki/index.md",
+    "wiki/Twelve-Labs.md",
     "wiki/Product-Management-0-to-1.md",
-    "wiki/Persona-AI.md",
-    "wiki/Nota-AI.md",
-    "wiki/Moloco.md",
-    "wiki/Mobilint.md",
-    "wiki/MediWhale.md",
-    "wiki/MarqVision.md",
-    "wiki/MakinaRocks.md",
-    "wiki/Lunit.md",
-    "wiki/LINER.md",
-    "wiki/Job-Search-Status-2026.md",
-    "wiki/Healthcare-AI-Trends-2026.md",
-    "wiki/FuriosaAI.md",
-    "wiki/FriendliAI.md",
+    "README.md",
+    "researcher/wiki/log.md",
+    "researcher/wiki/index.md",
+    "researcher/wiki/Wrtn-Technologies.md",
+    "researcher/wiki/VoyagerX.md",
+    "researcher/wiki/VUNO.md",
+    "researcher/wiki/Upstage.md",
+    "researcher/wiki/Twelve-Labs.md",
+    "researcher/wiki/Superb-AI.md",
+    "researcher/wiki/Standigm.md",
+    "researcher/wiki/SqueezeBits.md",
+    "researcher/wiki/Speak.md",
+    "researcher/wiki/Sendbird.md",
+    "researcher/wiki/Scatter-Lab.md",
+    "researcher/wiki/Riiid.md",
+    "researcher/wiki/Rebellions.md",
+    "researcher/wiki/Product-Management-0-to-1.md",
+    "researcher/wiki/Persona-AI.md",
+    "researcher/wiki/Nota-AI.md",
+    "researcher/wiki/Moloco.md",
+    "researcher/wiki/Mobilint.md",
+    "researcher/wiki/MediWhale.md",
+    "researcher/wiki",
+    "researcher/raw/AI-Startups-Korea-Top30.csv",
+    "researcher/raw",
+    "researcher",
     "raw/AI-Startups-Korea-Top30.csv",
     "raw",
     "wiki",
     "obsidian-research",
     "Users/seungjohan/Obsidian/researcher",
     "Users/seungjohan/Obsidian",
-    "Users/seungjohan",
-    "Users",
     "resources/attachments/Pasted image 20260331182241.png",
-    "resources/attachments/seungjohan_coverletter.pdf",
-    "resources/attachments/seungjohan_resume 1.pdf",
     "startup/useful product.canvas",
     "resources/attachments/R1280x0 30.png",
     "resources/attachments/Pasted image 20240814152800.png",
