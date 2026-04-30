@@ -8,59 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#input/person  ",
+      "query": "tag:#company",
       "color": {
         "a": 1,
         "rgb": 9842623
       }
     },
     {
-      "query": "line: career",
+      "query": "tag: #research",
       "color": {
         "a": 1,
-        "rgb": 947880
+        "rgb": 1086437
       }
     },
     {
-      "query": "tag:#blog  ",
+      "query": "tag: #list",
       "color": {
         "a": 1,
         "rgb": 11392604
-      }
-    },
-    {
-      "query": "tag:#startup  ",
-      "color": {
-        "a": 1,
-        "rgb": 16728064
-      }
-    },
-    {
-      "query": "tag:#español",
-      "color": {
-        "a": 1,
-        "rgb": 11146523
-      }
-    },
-    {
-      "query": "tag:#book",
-      "color": {
-        "a": 1,
-        "rgb": 16550157
-      }
-    },
-    {
-      "query": "tag: #reflection  ",
-      "color": {
-        "a": 1,
-        "rgb": 10066421
-      }
-    },
-    {
-      "query": "tag: #music",
-      "color": {
-        "a": 1,
-        "rgb": 0
       }
     }
   ],
@@ -74,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1039614622938718,
+  "scale": 1.416912227178715,
   "close": false
 }
